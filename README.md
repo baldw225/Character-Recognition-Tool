@@ -2,9 +2,6 @@
 
 
 
-***
-
-<img align="right" width=300px src=data/explainer_fig.png> 
 
 
 
