@@ -9,11 +9,8 @@
 
 
 ### Code
-* The [notebook to reproduce all main results](https://github.com/nomcomm/CRT_Validity/tree/master/scripts)
+* The [notebook to reproduce all main results](https://github.com/baldw225/Character-Recognition-Tool/tree/master/scripts)
 
-
-### Data
-* [Required data and variable files](https://github.com/nomcomm/CRT_Validity/tree/master/data)
 
 
 ### Dependencies
