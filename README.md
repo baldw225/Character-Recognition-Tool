@@ -8,10 +8,6 @@
 
 
 
-### Code
-* The [notebook to reproduce all main results](https://github.com/baldw225/Character-Recognition-Tool/tree/master/scripts/Character Recognition Tool_HIL.ipynb)
-
-
 
 ### Dependencies
 * Python [Anaconda](http://continuum.io/downloads) should provide you with most of what you need.
