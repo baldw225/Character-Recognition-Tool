@@ -10,4 +10,4 @@ Baldwin, J., Schmaelzle, R. (2019). A character recognition tool for automated c
 
 
 ***
-2019 | Joshua Baldwin & Ralf Schmaelzle
+2021 | Joshua Baldwin & Ralf Schmaelzle
