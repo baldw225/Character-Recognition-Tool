@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]('https://colab.research.google.com/github/baldw225/Character-Recognition-Tool/blob/master/Scripts/Character Recognition Tool.ipynb')
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]('https://colab.research.google.com/github/baldw225/Character-Recognition-Tool/blob/master/Scripts/Character_Recognition_Tool.ipynb')
 
 # Character Recognition Tool originally presented as
 
