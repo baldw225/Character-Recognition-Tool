@@ -6,7 +6,7 @@ Baldwin, J., Schmaelzle, R. (2019). A character recognition tool for automated c
 
 # Validation Test 
 
-https://bit.ly/3jrPL7C
+https://git.io/JDE07
 
 ### Dependencies
 * Python [Anaconda](http://continuum.io/downloads) should provide you with most of what you need.
